@@ -4,3 +4,4 @@ Fitness Wallet helps trainers in management of personal trainings, customers and
 - MVVM
 - Firebase(Firestore)
 - Coordinator
+- Diffable Data Source
